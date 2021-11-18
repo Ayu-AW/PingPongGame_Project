@@ -2,7 +2,7 @@
 ## The overall Design of the accessory
 ![](OverallDesign.png)
 
-# Picture of the actula Score Board Accessory
+# Picture of the actual Score Board Accessory
 ![](Ard_Cir_LED1.jpg)
 
 ![](Ard_Cir_LED2.jpg)
